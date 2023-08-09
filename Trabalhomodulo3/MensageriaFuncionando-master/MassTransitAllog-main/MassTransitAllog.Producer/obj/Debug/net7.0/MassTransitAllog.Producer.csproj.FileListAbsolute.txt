@@ -1,0 +1,153 @@
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\appsettings.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.exe
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.deps.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.runtimeconfig.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.pdb
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Shared.pdb
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.AssemblyReference.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.AssemblyInfoInputs.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.AssemblyInfo.cs
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.CoreCompileInputs.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.MassTransitAllog.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.build.MassTransitAllog.Producer.props
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MassTransitAllog.Producer.props
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MassTransitAllog.Producer.props
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\scopedcss\bundle\MassTransitAllog.Producer.styles.css
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.CopyComplete
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\refint\MassTransitAllog.Producer.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.pdb
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.genruntimeconfig.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\ref\MassTransitAllog.Producer.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.AssemblyReference.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.AssemblyInfoInputs.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.AssemblyInfo.cs
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.CoreCompileInputs.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\refint\MassTransitAllog.Producer.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.pdb
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\appsettings.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.exe
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.deps.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.runtimeconfig.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.pdb
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Shared.pdb
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.MassTransitAllog.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.build.MassTransitAllog.Producer.props
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MassTransitAllog.Producer.props
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MassTransitAllog.Producer.props
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\scopedcss\bundle\MassTransitAllog.Producer.styles.css
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.CopyComplete
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.genruntimeconfig.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\ref\MassTransitAllog.Producer.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\appsettings.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.exe
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.deps.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.runtimeconfig.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Producer.pdb
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.Abstractions.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Npgsql.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Shared.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\bin\Debug\net7.0\MassTransitAllog.Shared.pdb
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.AssemblyInfo.cs
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.MassTransitAllog.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.build.MassTransitAllog.Producer.props
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MassTransitAllog.Producer.props
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MassTransitAllog.Producer.props
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\scopedcss\bundle\MassTransitAllog.Producer.styles.css
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.csproj.CopyComplete
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\refint\MassTransitAllog.Producer.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.pdb
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\MassTransitAllog.Producer.genruntimeconfig.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Producer\obj\Debug\net7.0\ref\MassTransitAllog.Producer.dll

@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Producer\\MassTransitAllog.Producer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Producer\\MassTransitAllog.Producer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Producer\\MassTransitAllog.Producer.csproj",
+        "projectName": "MassTransitAllog.Producer",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Producer\\MassTransitAllog.Producer.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Producer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "D:\\visual studio componentes e ferramentas\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Shared\\MassTransitAllog.Shared.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Shared\\MassTransitAllog.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Shared\\MassTransitAllog.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Shared\\MassTransitAllog.Shared.csproj",
+        "projectName": "MassTransitAllog.Shared",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Shared\\MassTransitAllog.Shared.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Conteúdo faculdade\\enterAllog\\Aula30\\Trabalhomodulo3\\MensageriaFuncionando-master\\MassTransitAllog-main\\MassTransitAllog.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "D:\\visual studio componentes e ferramentas\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

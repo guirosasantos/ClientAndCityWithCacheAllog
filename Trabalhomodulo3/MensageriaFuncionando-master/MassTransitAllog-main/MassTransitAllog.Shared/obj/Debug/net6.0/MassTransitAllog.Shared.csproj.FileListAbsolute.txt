@@ -1,0 +1,48 @@
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.AssemblyReference.cache
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfoInputs.cache
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfo.cs
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.CoreCompileInputs.cache
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.deps.json
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.dll
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.pdb
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.dll
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\refint\MassTransitAllog.Shared.dll
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.pdb
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\ref\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.deps.json
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.pdb
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.AssemblyReference.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfoInputs.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfo.cs
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\refint\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.pdb
+C:\Users\Marques\Downloads\MassTransitAllog-main\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\ref\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.deps.json
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.pdb
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.AssemblyReference.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfoInputs.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfo.cs
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\refint\MassTransitAllog.Shared.dll
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.pdb
+C:\Users\Marques\Downloads\Mensageria\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\ref\MassTransitAllog.Shared.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.deps.json
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.pdb
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfo.cs
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\refint\MassTransitAllog.Shared.dll
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.pdb
+C:\Users\lucas\Documents\Conteúdo faculdade\enterAllog\Aula30\Trabalhomodulo3\MensageriaFuncionando-master\MassTransitAllog-main\MassTransitAllog.Shared\obj\Debug\net6.0\ref\MassTransitAllog.Shared.dll
